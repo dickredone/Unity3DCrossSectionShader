@@ -1,25 +1,21 @@
-# Unity3D Cross Section Shader
-Simple cross section shaders can be used to cut part of meshes out.
+# Unity3D 剖面 Shader
+简单的横截面着色器可以用来切割出一部分网格。
 
 <p align="center">
   <img src="https://dl.dropbox.com/s/tkf4qq9o069nqxm/crossSectionGithubHome2.png?dl=0">
 </p>
 
 
-## Features:
-- Binary partitioning using single plane.
-- Hatching using other plane mesh with the aid of stencil buffer.
-- Partitioning with three planes.
+## 功能:
+- 使用单个面进行区域划二分；
+- 借助模板缓冲区使用其他平面网格孵化。
+- 使用三个面进行区域划分；
 
 ## [Demo](https://dandarawy.github.io/Unity3D-Cross-Section-Shader-Demo/)
 
 
-## Documentation
+## 帮助文档
 Check [Wiki](https://github.com/Dandarawy/Unity3DCrossSectionShader/wiki) Section.
-
-
-## Asset store
-Download the latest unity package from [Asset Store](http://u3d.as/wma)
 
 ##
 <p align="center">
