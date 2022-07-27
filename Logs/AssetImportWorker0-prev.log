@@ -1,0 +1,109 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22000.795; Version 2009; 64bit' Language: 'zh' Physical Memory: 16271 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+H:\Program Files (x86)\Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/GithubLib/Unity3DCrossSectionShader
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54181
+Successfully changed project path to: H:/GithubLib/Unity3DCrossSectionShader
+H:/GithubLib/Unity3DCrossSectionShader
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path H:/Program Files (x86)/Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/GithubLib/Unity3DCrossSectionShader/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'H:/Program Files (x86)/Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'H:/Program Files (x86)/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'H:/Program Files (x86)/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/Program Files (x86)/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000620 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.7 MB.
+System memory in use after: 78.8 MB.
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 2209.
+Total: 4.904600 ms (FindLiveObjects: 0.284900 ms CreateObjectMapping: 0.163400 ms MarkObjects: 4.376300 ms  DeleteObjects: 0.078800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Cross Section Shader
+  artifactKey: Guid(8792111dec3c89f42929cd896d55e660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cross Section Shader using Guid(8792111dec3c89f42929cd896d55e660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a9d347cb274d30cd80ec32c71f5b42') in 0.005346 seconds
+  Import took 0.008046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Cross Section Shader/Examples
+  artifactKey: Guid(2812c4f6c8546c644b67a679f02bdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cross Section Shader/Examples using Guid(2812c4f6c8546c644b67a679f02bdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556db0871a5a0817494cbe3da1b215af') in 0.001317 seconds
+  Import took 0.003411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.251052 seconds.
+  path: Assets/Cross Section Shader/Examples/1.unity
+  artifactKey: Guid(e27434b86ff6a4540b1b312d5de6f467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cross Section Shader/Examples/1.unity using Guid(e27434b86ff6a4540b1b312d5de6f467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e35e068a97e82c1a2c9f7b995dcfa52') in 0.007197 seconds
+  Import took 0.009247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.307865 seconds.
+  path: Assets/Cross Section Shader/Examples/2.unity
+  artifactKey: Guid(79ca8e8ec17a95047971744665076ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cross Section Shader/Examples/2.unity using Guid(79ca8e8ec17a95047971744665076ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6481ab240cbb364ce50c1f8e4d4bb8') in 0.001898 seconds
+  Import took 0.004087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/Cross Section Shader/Examples/2.unity
+  artifactKey: Guid(79ca8e8ec17a95047971744665076ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cross Section Shader/Examples/2.unity using Guid(79ca8e8ec17a95047971744665076ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6481ab240cbb364ce50c1f8e4d4bb8') in 0.001433 seconds
+  Import took 0.003387 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
